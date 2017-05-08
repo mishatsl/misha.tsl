@@ -1,0 +1,2 @@
+@"Unable to open the physical file ""C:\vs 2013 projects\My_WCF_ASP_MVC_Application\MishaWcfService\App_Data\PersonDB.mdf"". Operating system error 5: ""5(Access is denied.)"".
+An attempt to attach an auto-named database for file C:\vs 2013 projects\My_WCF_ASP_MVC_Application\MishaWcfService\App_Data\PersonDB.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share."
